@@ -63,4 +63,4 @@ print("--------------------------------------------------------------")
 ![image](https://github.com/SubashM00/Muttiple-capacity-with-infinite-capacity/assets/144870586/67705798-2037-445b-b591-132d910f9cd5)
 
 ## Result : 
-
+Thus the average number of materials in the system and conveyor, waiting time of each material in the system and conveyor is found successfully.
